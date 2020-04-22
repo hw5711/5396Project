@@ -7,6 +7,8 @@ Install Eclipse IDE for Java Developers --> https://www.eclipse.org/ide/
 
 Install Visual-JIL --> http://laser.cs.umass.edu/documentation/vjinstall/
 
+Link to learn --> https://collab.cs.umass.edu/wiki/pages/K4S5s5/Little-JIL_Tutorial.html
+
 Steps to create new project:
 
 1. File > New > Project > Little-JIL > Little-JIL Project" then click "Next"
